@@ -1,0 +1,31 @@
+{
+  "name": "ps-1",
+  "version": "1.0.0",
+  "description": "React-Course",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yours-vijay/react-course-v1.git"
+  },
+  "keywords": [
+    "vijay"
+  ],
+  "author": "vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yours-vijay/react-course-v1/issues"
+  },
+  "homepage": "https://github.com/yours-vijay/react-course-v1#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
