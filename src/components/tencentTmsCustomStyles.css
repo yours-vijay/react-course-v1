@@ -303,6 +303,9 @@ display: none !important;
 
 }
 
+.header-pc-component .header__list{
+	column-gap: 10px;
+}
 /* ----- Message ----- */
 .im-component{
 	background-color: #3b3b3b !important;
