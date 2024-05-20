@@ -340,7 +340,7 @@ display: none !important;
 .footer-component-default{ position: fixed !important; left: unset !important; top: unset !important; bottom: 10px !important;}
 
 /* hiding virtual background */
-.setting-beauty{display: none !important;}
+/* .setting-beauty{display: none !important;} */
 
 /* virtual background */
 .virtual-background-item:hover, .virtual-background-item.active,
