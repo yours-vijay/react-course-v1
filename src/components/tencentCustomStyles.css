@@ -368,3 +368,15 @@ display: none !important;
     width: 90%; height: 90%;
   }
 } */
+
+
+/* Virtual background */
+
+.raw-beauty-config-component .beauty-content .beauty-item .beauty-item-name{
+	width: auto !important;
+	flex: 1;
+}
+.raw-beauty-config-component .beauty-content .beauty-item .beauty-slider{
+	width: auto !important;
+	margin: 0 !important;
+}
